@@ -1,5 +1,4 @@
 # react-projects
-Sure, here are short README.md files for both the Weather App and the Snapshot App built in React:
 
 ### Weather App
 
